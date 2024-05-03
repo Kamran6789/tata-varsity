@@ -1,0 +1,415 @@
+[
+{"position": 6, "winner_business": "Phare Labs", "winner_participants": " DANIEL MCBRIDE& ARNAUDONATEDUCH"},
+{"position": 1, "winner_business": "Elbow Engineers", "winner_participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"position": 4, "winner_business": "Even", "winner_participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"},
+{"position": 3, "winner_business": "Enturi Solutions", "winner_participants": " ALEX SHAKESHAFT & STUART ROBERTS"},
+{"position": 2, "winner_business": "Defensive Thinking", "winner_participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{"position": 5, "winner_business": "Kitt Medical", "winner_participants": " ZAK MARKS& JAMES COHEN"},
+{"position": 7, "winner_business": "TAP\u2019N\u2019TOUR", "winner_participants": " JOAQUIN CONTRERASMERINO"}
+][
+{"winner_business": "Elbow Engineers", "winner_participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR", "2nd_place_business": null, "3rd_place_business": null, "4th_place_business": null},
+{"winner_business": "Even", "winner_participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH", "2nd_place_business": null, "3rd_place_business": null, "4th_place_business": null},
+{"winner_business": "Kitt Medical", "winner_participants": " ZAK MARKS& JAMES COHEN", "2nd_place_business": null, "3rd_place_business": null, "4th_place_business": null},
+{"winner_business": "Enturi Solutions", "winner_participants": " ALEX SHAKESHAFT & STUART ROBERTS", "2nd_place_business": null, "3rd_place_business": null, "4th_place_business": null},
+{"winner_business": "Defensive Thinking", "winner_participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS", "2nd_place_business": null, "3rd_place_business": null, "4th_place_business": null},
+{"winner_business": "Phare Labs", "winner_participants": " DANIEL MCBRIDE& ARNAUDONATEDUCH", "2nd_place_business": null, "3rd_place_business": null, "4th_place_business": null},
+{"winner_business": "TAP\u2019N\u2019TOUR", "winner_participants": " JOAQUIN CONTRERASMERINO", "2nd_place_business": null, "3rd_place_business": null, "4th_place_business": null}
+][
+{"winner_business": "Elbow Engineers", "winner_participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"winner_business": "Kitt Medical", "winner_participants": " ZAK MARKS& JAMES COHEN"},
+{"winner_business": "Phare Labs", "winner_participants": " DANIEL MCBRIDE& ARNAUDONATEDUCH"},
+{"winner_business": "Even", "winner_participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"},
+{"winner_business": "Enturi Solutions", "winner_participants": " ALEX SHAKESHAFT & STUART ROBERTS"},
+{"winner_business": "TAP\u2019N\u2019TOUR", "winner_participants": " JOAQUIN CONTRERASMERINO"},
+{"winner_business": "Defensive Thinking", "winner_participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS"}
+][
+{"position": 1, "winner_business": "Elbow Engineers", "winner_participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"position": 4, "4th_place_business": "Even", "4th_place_participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"},
+{"position": 5, "winner_business": "Kitt Medical", "winner_participants": " ZAK MARKS& JAMES COHEN"},
+{"position": 2, "winner_business": "Defensive Thinking", "winner_participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{"position": 3, "3rd_place_business": "Enturi Solutions", "3rd_place_participants": " ALEX SHAKESHAFT & STUART ROBERTS"},
+{"position": 6, "winner_business": "Phare Labs", "winner_participants": " DANIEL MCBRIDE& ARNAUDONATEDUCH"},
+{"position": 7, "winner_business": "TAP\u2019N\u2019TOUR", "winner_participants": " JOAQUIN CONTRERASMERINO"}
+][
+{"position": 1, "winner_business": "Elbow Engineers", "winner_participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"position": 2, "winner_business": "Defensive Thinking", "winner_participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{"position": 3, "3rd_place_business": "Enturi Solutions", "3rd_place_participants": " ALEX SHAKESHAFT & STUART ROBERTS"},
+{"position": 4, "4th_place_business": "Even", "4th_place_participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"}
+][
+{"position": 1, "winner_business": "Elbow Engineers", "winner_participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"position": 3, "3rd_place_business": "Enturi Solutions", "3rd_place_participants": " ALEX SHAKESHAFT & STUART ROBERTS"},
+{"position": 2, "2nd_place_business": "Defensive Thinking", "2nd_place_participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{"position": 4, "4th_place_business": "Even", "4th_place_participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"}
+][
+{"winner business": "Elbow Engineers", "winner participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"2nd_place_business": "Defensive Thinking", "2nd_place_participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{"4th place business": "Even", "4th place participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"},
+{"3rd place business": "Enturi Solutions", "3rd place participants": " ALEX SHAKESHAFT & STUART ROBERTS"}
+][
+{"competition": "Tata Varsity Pitch", "lastupdate": "2024-05-03 15:18:54", "year": "2023", "winner business": "Elbow Engineers", "winner participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"competition": "Tata Varsity Pitch", "lastupdate": "2024-05-03 15:18:55", "year": "2023", "3rd place business": "Enturi Solutions", "3rd place participants": " ALEX SHAKESHAFT & STUART ROBERTS"},
+{"competition": "Tata Varsity Pitch", "lastupdate": "2024-05-03 15:18:55", "year": "2023", "2nd_place_business": "Defensive Thinking", "2nd_place_participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{"competition": "Tata Varsity Pitch", "lastupdate": "2024-05-03 15:18:55", "year": "2023", "4th place business": "Even", "4th place participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"}
+][
+{"competition": "Tata Varsity Pitch", "lastupdate": "2024-05-03 15:21:11", "year": "2023", "winner business": "Elbow Engineers", "winner participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"competition": "Tata Varsity Pitch", "lastupdate": "2024-05-03 15:21:12", "year": "2023", "2nd_place_business": "Defensive Thinking", "2nd_place_participants": "MATTHEW O’NEILL & MARK WILLIAMS"},
+{"competition": "Tata Varsity Pitch", "lastupdate": "2024-05-03 15:21:12", "year": "2023", "3rd place business": "Enturi Solutions", "3rd place participants": " ALEX SHAKESHAFT & STUART ROBERTS"},
+{"competition": "Tata Varsity Pitch", "lastupdate": "2024-05-03 15:21:12", "year": "2023", "4th place business": "Even", "4th place participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"}
+][
+{"competition": "Tata Varsity Pitch", "lastupdate": "2024-05-03 15:22:48", "year": "2023", "winner business": "Elbow Engineers", "winner participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"competition": "Tata Varsity Pitch", "lastupdate": "2024-05-03 15:22:49", "year": "2023", "2nd place business": "Defensive Thinking", "2nd place participants": "MATTHEW O’NEILL & MARK WILLIAMS"},
+{"competition": "Tata Varsity Pitch", "lastupdate": "2024-05-03 15:22:50", "year": "2023", "3rd place business": "Enturi Solutions", "3rd place participants": " ALEX SHAKESHAFT & STUART ROBERTS"},
+{"competition": "Tata Varsity Pitch", "lastupdate": "2024-05-03 15:22:51", "year": "2023", "4th place business": "Even", "4th place participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"}
+][
+{"competition": "Tata Varsity Pitch", "lastupdate": "2024-05-03 15:23:10", "year": "2023", "winner business": "Elbow Engineers", "winner participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"competition": "Tata Varsity Pitch", "lastupdate": "2024-05-03 15:23:11", "year": "2023", "4th place business": "Even", "4th place participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"},
+{"competition": "Tata Varsity Pitch", "lastupdate": "2024-05-03 15:23:11", "year": "2023", "2nd place business": "Defensive Thinking", "2nd place participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{"competition": "Tata Varsity Pitch", "lastupdate": "2024-05-03 15:23:13", "year": "2023", "3rd place business": "Enturi Solutions", "3rd place participants": " ALEX SHAKESHAFT & STUART ROBERTS"}
+][
+{"competition": "Tata Varsity Pitch", "lastupdate": "2024-05-03 15:25:37", "year": "2023", "winner business": "Elbow Engineers", "winner participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"competition": "Tata Varsity Pitch", "lastupdate": "2024-05-03 15:25:38", "year": "2023", "3rd place business": "Enturi Solutions", "3rd place participants": " ALEX SHAKESHAFT & STUART ROBERTS"},
+{"competition": "Tata Varsity Pitch", "lastupdate": "2024-05-03 15:25:38", "year": "2023", "2nd place business": "Defensive Thinking", "2nd place participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{"competition": "Tata Varsity Pitch", "lastupdate": "2024-05-03 15:25:38", "year": "2023", "4th place business": "Even", "4th place participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"}
+][
+{"competition": "Tata Varsity Pitch", "lastupdate": "2024-05-03 15:32:14", "year": "2023", "winner business": "Even", "winner participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH", "4th place business": "Even", "4th place participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"},
+{"competition": "Tata Varsity Pitch", "lastupdate": "2024-05-03 15:32:14", "year": "2023", "winner business": "Elbow Engineers", "winner participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"competition": "Tata Varsity Pitch", "lastupdate": "2024-05-03 15:32:14", "year": "2023", "winner business": "Enturi Solutions", "winner participants": " ALEX SHAKESHAFT & STUART ROBERTS", "3rd place business": "Enturi Solutions", "3rd place participants": " ALEX SHAKESHAFT & STUART ROBERTS"},
+{"competition": "Tata Varsity Pitch", "lastupdate": "2024-05-03 15:32:14", "year": "2023", "winner business": "Defensive Thinking", "winner participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS", "2nd place business": "Defensive Thinking", "2nd place participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS"}
+][
+{"competition": "Tata Varsity Pitch", "lastupdate": "2024-05-03 15:34:02", "year": "2023", "winner business": "Elbow Engineers", "winner participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"competition": "Tata Varsity Pitch", "lastupdate": "2024-05-03 15:34:02", "year": "2023", "winner business": "Defensive Thinking", "winner participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS", "2nd place business": "Defensive Thinking", "2nd place participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{"competition": "Tata Varsity Pitch", "lastupdate": "2024-05-03 15:34:02", "year": "2023", "winner business": "Enturi Solutions", "winner participants": " ALEX SHAKESHAFT & STUART ROBERTS", "3rd place business": "Enturi Solutions", "3rd place participants": " ALEX SHAKESHAFT & STUART ROBERTS"},
+{"competition": "Tata Varsity Pitch", "lastupdate": "2024-05-03 15:34:03", "year": "2023", "winner business": "Even", "winner participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH", "4th place business": "Even", "4th place participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"}
+][
+{"winners_business": "Elbow Engineers", "winners_participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"winners_business": "TAP\u2019N\u2019TOUR", "winners_participants": " JOAQUIN CONTRERASMERINO"},
+{"winners_business": "Enturi Solutions", "winners_participants": " ALEX SHAKESHAFT & STUART ROBERTS"},
+{"winners_business": "Defensive Thinking", "winners_participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{"winners_business": "Even", "winners_participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"},
+{"winners_business": "Phare Labs", "winners_participants": " DANIEL MCBRIDE& ARNAUDONATEDUCH"},
+{"winners_business": "Kitt Medical", "winners_participants": " ZAK MARKS& JAMES COHEN"}
+][
+{"winners_business": "Elbow Engineers", "winners_participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"Unknown place winners_business": "Kitt Medical", "Unknown place winners_participants": " ZAK MARKS& JAMES COHEN"},
+{"3rd place winners_business": "Enturi Solutions", "3rd place winners_participants": " ALEX SHAKESHAFT & STUART ROBERTS"},
+{"Unknown place winners_business": "Phare Labs", "Unknown place winners_participants": " DANIEL MCBRIDE& ARNAUDONATEDUCH"},
+{"4th place winners_business": "Even", "4th place winners_participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"},
+{"Unknown place winners_business": "TAP\u2019N\u2019TOUR", "Unknown place winners_participants": " JOAQUIN CONTRERASMERINO"},
+{"2nd place winners_business": "Defensive Thinking", "2nd place winners_participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS"}
+][
+{"winners_business": "Elbow Engineers", "winners_participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"6th place winners_business": "Phare Labs", "6th place winners_participants": " DANIEL MCBRIDE& ARNAUDONATEDUCH"},
+{"4th place winners_business": "Even", "4th place winners_participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"},
+{"2nd place winners_business": "Defensive Thinking", "2nd place winners_participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{"5th place winners_business": "Kitt Medical", "5th place winners_participants": " ZAK MARKS& JAMES COHEN"},
+{"3rd place winners_business": "Enturi Solutions", "3rd place winners_participants": " ALEX SHAKESHAFT & STUART ROBERTS"},
+{"7th place winners_business": "TAP\u2019N\u2019TOUR", "7th place winners_participants": " JOAQUIN CONTRERASMERINO"}
+][
+{"winners_business": "Elbow Engineers", "winners_participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"6th place winners_business": "Phare Labs", "6th place winners_participants": " DANIEL MCBRIDE& ARNAUDONATEDUCH"},
+{"2nd place winners_business": "Defensive Thinking", "2nd place winners_participants": "MATTHEW O’NEILL & MARK WILLIAMS"},
+{"4th place winners_business": "Even", "4th place winners_participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"},
+{"3rd place winners_business": "Enturi Solutions", "3rd place winners_participants": " ALEX SHAKESHAFT & STUART ROBERTS"},
+{"5th place winners_business": "Kitt Medical", "5th place winners_participants": " ZAK MARKS& JAMES COHEN"},
+{"7th place winners_business": "TAP’N’TOUR", "7th place winners_participants": " JOAQUIN CONTRERASMERINO"}
+][
+
+][
+
+][
+{"winners_business": "Elbow Engineers", "winners_participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR", "Unknown place winners_business": "Elbow Engineers", "Unknown place winners_participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"}
+][
+{"winners_business": "Elbow Engineers", "winners_participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR", "Unknown place winners_business": "Elbow Engineers", "Unknown place winners_participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"winners_business": "Kitt Medical", "winners_participants": " ZAK MARKS& JAMES COHEN", "Unknown place winners_business": "Kitt Medical", "Unknown place winners_participants": " ZAK MARKS& JAMES COHEN"},
+{"winners_business": "TAP\u2019N\u2019TOUR", "winners_participants": " JOAQUIN CONTRERASMERINO", "Unknown place winners_business": "TAP\u2019N\u2019TOUR", "Unknown place winners_participants": " JOAQUIN CONTRERASMERINO"},
+{"winners_business": "Defensive Thinking", "winners_participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS", "2nd place winners_business": "Defensive Thinking", "2nd place winners_participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{"winners_business": "Phare Labs", "winners_participants": " DANIEL MCBRIDE& ARNAUDONATEDUCH", "Unknown place winners_business": "Phare Labs", "Unknown place winners_participants": " DANIEL MCBRIDE& ARNAUDONATEDUCH"},
+{"winners_business": "Enturi Solutions", "winners_participants": " ALEX SHAKESHAFT & STUART ROBERTS", "3rd place winners_business": "Enturi Solutions", "3rd place winners_participants": " ALEX SHAKESHAFT & STUART ROBERTS"},
+{"winners_business": "Even", "winners_participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH", "4th place winners_business": "Even", "4th place winners_participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"}
+][
+{"winners_business": "Elbow Engineers", "winners_participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR", "winner business": "Elbow Engineers", "winner participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"winners_business": "Defensive Thinking", "winners_participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS", "2nd winner business": "Defensive Thinking", "2nd winner participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{"winners_business": "Kitt Medical", "winners_participants": " ZAK MARKS& JAMES COHEN", "5th winner business": "Kitt Medical", "5th winner participants": " ZAK MARKS& JAMES COHEN"},
+{"winners_business": "Enturi Solutions", "winners_participants": " ALEX SHAKESHAFT & STUART ROBERTS", "3rd winner business": "Enturi Solutions", "3rd winner participants": " ALEX SHAKESHAFT & STUART ROBERTS"},
+{"winners_business": "TAP\u2019N\u2019TOUR", "winners_participants": " JOAQUIN CONTRERASMERINO", "7th winner business": "TAP\u2019N\u2019TOUR", "7th winner participants": " JOAQUIN CONTRERASMERINO"},
+{"winners_business": "Phare Labs", "winners_participants": " DANIEL MCBRIDE& ARNAUDONATEDUCH", "6th winner business": "Phare Labs", "6th winner participants": " DANIEL MCBRIDE& ARNAUDONATEDUCH"},
+{"winners_business": "Even", "winners_participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH", "4th winner business": "Even", "4th winner participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"}
+][
+{"winner business": "Elbow Engineers", "winner participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"2nd winner business": "Defensive Thinking", "2nd winner participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{"5th winner business": "Kitt Medical", "5th winner participants": " ZAK MARKS& JAMES COHEN"},
+{"7th winner business": "TAP\u2019N\u2019TOUR", "7th winner participants": " JOAQUIN CONTRERASMERINO"},
+{"4th winner business": "Even", "4th winner participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"},
+{"3rd winner business": "Enturi Solutions", "3rd winner participants": " ALEX SHAKESHAFT & STUART ROBERTS"},
+{"6th winner business": "Phare Labs", "6th winner participants": " DANIEL MCBRIDE& ARNAUDONATEDUCH"}
+][
+{"winner business": "Elbow Engineers", "winner participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"6th winner business": "Phare Labs", "6th winner participants": " DANIEL MCBRIDE& ARNAUDONATEDUCH"},
+{"3rd winner business": "Enturi Solutions", "3rd winner participants": " ALEX SHAKESHAFT & STUART ROBERTS"},
+{"2nd winner business": "Defensive Thinking", "2nd winner participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{"7th winner business": "TAP\u2019N\u2019TOUR", "7th winner participants": " JOAQUIN CONTRERASMERINO"},
+{"5th winner business": "Kitt Medical", "5th winner participants": " ZAK MARKS& JAMES COHEN"},
+{"4th winner business": "Even", "4th winner participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"}
+][
+{"winner business": "Elbow Engineers", "winner participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"4th winner business": "Even", "4th winner participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"},
+{"7th winner business": "TAP\u2019N\u2019TOUR", "7th winner participants": " JOAQUIN CONTRERASMERINO"},
+{"2nd winner business": "Defensive Thinking", "2nd winner participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{"6th winner business": "Phare Labs", "6th winner participants": " DANIEL MCBRIDE& ARNAUDONATEDUCH"},
+{"3rd winner business": "Enturi Solutions", "3rd winner participants": " ALEX SHAKESHAFT & STUART ROBERTS"},
+{"5th winner business": "Kitt Medical", "5th winner participants": " ZAK MARKS& JAMES COHEN"}
+][
+{"winner business": "Elbow Engineers", "winner participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"5th winner business": "Kitt Medical", "5th winner participants": " ZAK MARKS& JAMES COHEN"},
+{"7th winner business": "TAP’N’TOUR", "7th winner participants": " JOAQUIN CONTRERASMERINO"},
+{"4th winner business": "Even", "4th winner participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"},
+{"3rd winner business": "Enturi Solutions", "3rd winner participants": " ALEX SHAKESHAFT & STUART ROBERTS"},
+{"6th winner business": "Phare Labs", "6th winner participants": " DANIEL MCBRIDE& ARNAUDONATEDUCH"},
+{"2nd winner business": "Defensive Thinking", "2nd winner participants": "MATTHEW O’NEILL & MARK WILLIAMS"}
+][
+{" competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:36:23", "winner business": "Elbow Engineers", "winner participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{" competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:36:24", "7th winner business": "TAP\u2019N\u2019TOUR", "7th winner participants": " JOAQUIN CONTRERASMERINO"},
+{" competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:36:24", "3rd winner business": "Enturi Solutions", "3rd winner participants": " ALEX SHAKESHAFT & STUART ROBERTS"},
+{" competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:36:24", "5th winner business": "Kitt Medical", "5th winner participants": " ZAK MARKS& JAMES COHEN"},
+{" competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:36:24", "6th winner business": "Phare Labs", "6th winner participants": " DANIEL MCBRIDE& ARNAUDONATEDUCH"},
+{" competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:36:24", "4th winner business": "Even", "4th winner participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"},
+{" competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:36:24", "2nd winner business": "Defensive Thinking", "2nd winner participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS"}
+][
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:42:11", "winner business": "Elbow Engineers", "winner participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:42:12", "5th winner business": "Kitt Medical", "5th winner participants": " ZAK MARKS& JAMES COHEN"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:42:12", "3rd winner business": "Enturi Solutions", "3rd winner participants": " ALEX SHAKESHAFT & STUART ROBERTS"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:42:12", "7th winner business": "TAP\u2019N\u2019TOUR", "7th winner participants": " JOAQUIN CONTRERASMERINO"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:42:12", "6th winner business": "Phare Labs", "6th winner participants": " DANIEL MCBRIDE& ARNAUDONATEDUCH"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:42:12", "2nd winner business": "Defensive Thinking", "2nd winner participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:42:12", "4th winner business": "Even", "4th winner participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"}
+][
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:42:58", "winner business": "Elbow Engineers", "winner participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:42:59", "2nd winner business": "Defensive Thinking", "2nd winner participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:43:00", "7th winner business": "TAP\u2019N\u2019TOUR", "7th winner participants": " JOAQUIN CONTRERASMERINO"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:43:00", "6th winner business": "Phare Labs", "6th winner participants": " DANIEL MCBRIDE& ARNAUDONATEDUCH"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:43:00", "3rd winner business": "Enturi Solutions", "3rd winner participants": " ALEX SHAKESHAFT & STUART ROBERTS"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:43:00", "4th winner business": "Even", "4th winner participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:43:00", "5th winner business": "Kitt Medical", "5th winner participants": " ZAK MARKS& JAMES COHEN"}
+][
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:43:29", "winner business": "Elbow Engineers", "winner participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:43:30", "4th winner business": "Even", "4th winner participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:43:30", "5th winner business": "Kitt Medical", "5th winner participants": " ZAK MARKS& JAMES COHEN"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:43:30", "6th winner business": "Phare Labs", "6th winner participants": " DANIEL MCBRIDE& ARNAUDONATEDUCH"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:43:30", "2nd winner business": "Defensive Thinking", "2nd winner participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:43:30", "7th winner business": "TAP\u2019N\u2019TOUR", "7th winner participants": " JOAQUIN CONTRERASMERINO"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:43:30", "3rd winner business": "Enturi Solutions", "3rd winner participants": " ALEX SHAKESHAFT & STUART ROBERTS"}
+][
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:44:37", "winner business": "Elbow Engineers", "winner participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:44:37", "2nd winner business": "Defensive Thinking", "2nd winner participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:44:37", "6th winner business": "Phare Labs", "6th winner participants": " DANIEL MCBRIDE& ARNAUDONATEDUCH"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:44:37", "4th winner business": "Even", "4th winner participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:44:37", "3rd winner business": "Enturi Solutions", "3rd winner participants": " ALEX SHAKESHAFT & STUART ROBERTS"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:44:37", "5th winner business": "Kitt Medical", "5th winner participants": " ZAK MARKS& JAMES COHEN"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:44:37", "7th winner business": "TAP\u2019N\u2019TOUR", "7th winner participants": " JOAQUIN CONTRERASMERINO"}
+][
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:45:04", "winner business": "Elbow Engineers", "winner participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:45:05", "2nd winner business": "Defensive Thinking", "2nd winner participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:45:05", "3rd winner business": "Enturi Solutions", "3rd winner participants": " ALEX SHAKESHAFT & STUART ROBERTS"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:45:06", "5th winner business": "Kitt Medical", "5th winner participants": " ZAK MARKS& JAMES COHEN"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:45:06", "4th winner business": "Even", "4th winner participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:45:06", "6th winner business": "Phare Labs", "6th winner participants": " DANIEL MCBRIDE& ARNAUDONATEDUCH"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:45:06", "7th winner business": "TAP\u2019N\u2019TOUR", "7th winner participants": " JOAQUIN CONTRERASMERINO"}
+][
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:45:40", "winner business": "Elbow Engineers", "winner participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:45:41", "7th winner business": "TAP\u2019N\u2019TOUR", "7th winner participants": " JOAQUIN CONTRERASMERINO"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:45:41", "2nd winner business": "Defensive Thinking", "2nd winner participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:45:41", "5th winner business": "Kitt Medical", "5th winner participants": " ZAK MARKS& JAMES COHEN"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:45:41", "6th winner business": "Phare Labs", "6th winner participants": " DANIEL MCBRIDE& ARNAUDONATEDUCH"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:45:41", "3rd winner business": "Enturi Solutions", "3rd winner participants": " ALEX SHAKESHAFT & STUART ROBERTS"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 16:45:41", "4th winner business": "Even", "4th winner participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"}
+][
+
+][
+
+][
+
+][
+
+][
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 17:00:02", "Winner business": "Elbow Engineers", "Winner participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 17:00:03", "5th business": "Kitt Medical", "5th participants": " ZAK MARKS& JAMES COHEN"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 17:00:03", "2nd business": "Defensive Thinking", "2nd participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 17:00:03", "4th business": "Even", "4th participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 17:00:03", "6th business": "Phare Labs", "6th participants": " DANIEL MCBRIDE& ARNAUDONATEDUCH"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 17:00:03", "3th business": "Enturi Solutions", "3th participants": " ALEX SHAKESHAFT & STUART ROBERTS"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 17:00:03", "7th business": "TAP\u2019N\u2019TOUR", "7th participants": " JOAQUIN CONTRERASMERINO"}
+][
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 17:00:38", "Winner business": "Elbow Engineers", "Winner participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 17:00:39", "5th business": "Kitt Medical", "5th participants": " ZAK MARKS& JAMES COHEN"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 17:00:39", "3th business": "Enturi Solutions", "3th participants": " ALEX SHAKESHAFT & STUART ROBERTS"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 17:00:39", "4th business": "Even", "4th participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 17:00:39", "2nd business": "Defensive Thinking", "2nd participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 17:00:39", "7th business": "TAP\u2019N\u2019TOUR", "7th participants": " JOAQUIN CONTRERASMERINO"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 17:00:39", "6th business": "Phare Labs", "6th participants": " DANIEL MCBRIDE& ARNAUDONATEDUCH"}
+][
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 17:00:54", "Winner business": "Elbow Engineers", "Winner participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 17:00:55", "6th business": "Phare Labs", "6th participants": " DANIEL MCBRIDE& ARNAUDONATEDUCH"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 17:00:55", "3th business": "Enturi Solutions", "3th participants": " ALEX SHAKESHAFT & STUART ROBERTS"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 17:00:55", "7th business": "TAP\u2019N\u2019TOUR", "7th participants": " JOAQUIN CONTRERASMERINO"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 17:00:55", "5th business": "Kitt Medical", "5th participants": " ZAK MARKS& JAMES COHEN"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 17:00:55", "2nd business": "Defensive Thinking", "2nd participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{"competition": "Tata Varsity Pitch", "year": "2023", "lastupdate": "2024-05-03 17:00:55", "4th business": "Even", "4th participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"}
+][
+
+][
+
+][
+
+][
+{"winner_business": "Elbow Engineers", "winner_participants": " KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"winner_business": "Enturi Solutions", "winner_participants": " ALEX SHAKESHAFT & STUART ROBERTS"},
+{"winner_business": "Kitt Medical", "winner_participants": " ZAK MARKS& JAMES COHEN"},
+{"winner_business": "Defensive Thinking", "winner_participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{"winner_business": "Even", "winner_participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"},
+{"winner_business": "TAP\u2019N\u2019TOUR", "winner_participants": " JOAQUIN CONTRERASMERINO"},
+{"winner_business": "Phare Labs", "winner_participants": " DANIEL MCBRIDE& ARNAUDONATEDUCH"}
+][
+{"winner_participants": "Winner Participants:  KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"winner_participants": "Winner Participants: MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{"winner_participants": "Winner Participants:  SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"},
+{"winner_participants": "Winner Participants:  JOAQUIN CONTRERASMERINO"},
+{"winner_participants": "Winner Participants:  ZAK MARKS& JAMES COHEN"},
+{"winner_participants": "Winner Participants:  ALEX SHAKESHAFT & STUART ROBERTS"},
+{"winner_participants": "Winner Participants:  DANIEL MCBRIDE& ARNAUDONATEDUCH"}
+][
+{"winner_participants": "Winner Participants:  KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"winner_participants": "Winner Participants:  DANIEL MCBRIDE& ARNAUDONATEDUCH"},
+{"winner_participants": "Winner Participants:  JOAQUIN CONTRERASMERINO"},
+{"winner_participants": "Winner Participants: MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{"winner_participants": "Winner Participants:  SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"},
+{"winner_participants": "Winner Participants:  ZAK MARKS& JAMES COHEN"},
+{"winner_participants": "Winner Participants:  ALEX SHAKESHAFT & STUART ROBERTS"}
+][
+{"winner_participants": "Winner Participants:  KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"winner_participants": "Winner Participants:  DANIEL MCBRIDE& ARNAUDONATEDUCH"},
+{"winner_participants": "Winner Participants:  ALEX SHAKESHAFT & STUART ROBERTS"},
+{"winner_participants": "Winner Participants:  SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"},
+{"winner_participants": "Winner Participants:  ZAK MARKS& JAMES COHEN"},
+{"winner_participants": "Winner Participants:  JOAQUIN CONTRERASMERINO"},
+{"winner_participants": "Winner Participants: MATTHEW O\u2019NEILL & MARK WILLIAMS"}
+][
+{"winner_participants": "Winner Participants:  KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"winner_participants": "Winner Participants:  ZAK MARKS& JAMES COHEN"},
+{"winner_participants": "Winner Participants:  DANIEL MCBRIDE& ARNAUDONATEDUCH"},
+{"winner_participants": "Winner Participants:  ALEX SHAKESHAFT & STUART ROBERTS"},
+{"winner_participants": "Winner Participants:  SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"},
+{"winner_participants": "Winner Participants:  JOAQUIN CONTRERASMERINO"},
+{"winner_participants": "Winner Participants: MATTHEW O\u2019NEILL & MARK WILLIAMS"}
+][
+{"winner_participants": null},
+{"winner_participants": null},
+{"winner_participants": null},
+{"winner_participants": null},
+{"winner_participants": null},
+{"winner_participants": null},
+{"winner_participants": null}
+][
+
+][
+{"winner_participants": null},
+{"winner_participants": null},
+{"winner_participants": null, "3rd place participant": "3rd place participants:  ALEX SHAKESHAFT & STUART ROBERTS\n3rd Place Business: Enturi Solutions"},
+{"winner_participants": null, "2nd place participants": "2nd place participants: MATTHEW O\u2019NEILL & MARK WILLIAMS\n2nd Place Business: Defensive Thinking"},
+{"winner_participants": null},
+{"winner_participants": null, "4th place participants": "4th place participants:  SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH\n4th Place Business: Even"},
+{"winner_participants": null}
+][
+{"winner_participants": null},
+{"winner_participants": null},
+{"winner_participants": null},
+{"winner_participants": null},
+{"winner_participants": null, "4th place participants": "4th place participants:  SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"},
+{"winner_participants": null, "3rd place participant": "3rd place participants:  ALEX SHAKESHAFT & STUART ROBERTS"},
+{"winner_participants": null, "2nd place participants": "2nd place participants: MATTHEW O\u2019NEILL & MARK WILLIAMS"}
+][
+{"winner_participants": null},
+{"winner_participants": null},
+{"winner_participants": null},
+{"winner_participants": "4th place participants:  SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"},
+{"winner_participants": "2nd place participants: MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{"winner_participants": "3rd place participants:  ALEX SHAKESHAFT & STUART ROBERTS"},
+{"winner_participants": null}
+][
+{"winner_participants": null},
+{"winner_participants": null},
+{"winner_participants": null},
+{"winner_participants": "4th place participants:  SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"},
+{"winner_participants": null},
+{"winner_participants": "3rd place participants:  ALEX SHAKESHAFT & STUART ROBERTS"},
+{"winner_participants": "2nd place participants: MATTHEW O\u2019NEILL & MARK WILLIAMS"}
+][
+{"winner_participants": null},
+{"winner_participants": "2nd place participants: MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{"winner_participants": null},
+{"winner_participants": null},
+{"winner_participants": null},
+{"winner_participants": "3rd place participants:  ALEX SHAKESHAFT & STUART ROBERTS"},
+{"winner_participants": null}
+][
+{"winner_participants": null},
+{"winner_participants": null},
+{"winner_participants": "3rd place participants:  ALEX SHAKESHAFT & STUART ROBERTS"},
+{"winner_participants": null},
+{"winner_participants": "2nd place participants: MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{"winner_participants": null},
+{"winner_participants": null}
+][
+{},
+{},
+{},
+{"4th place participants": "4th place participants:  SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH\n4th Place Business: Even"},
+{"3rd place participant": "3rd place participants:  ALEX SHAKESHAFT & STUART ROBERTS\n3rd Place Business: Enturi Solutions"},
+{"2nd place participants": "2nd place participants: MATTHEW O\u2019NEILL & MARK WILLIAMS\n2nd Place Business: Defensive Thinking"},
+{}
+][
+{},
+{},
+{},
+{},
+{"2nd place participants": "MATTHEW O\u2019NEILL & MARK WILLIAMS\n2nd Place Business: Defensive Thinking"},
+{"4th place participants": " SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH\n4th Place Business: Even"},
+{"3rd place participant": " ALEX SHAKESHAFT & STUART ROBERTS\n3rd Place Business: Enturi Solutions"}
+][
+{},
+{"winner participants": "3rd place participants:  ALEX SHAKESHAFT & STUART ROBERTS\n3rd Place Business: Enturi Solutions"},
+{"winner participants": "4th place participants:  SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH\n4th Place Business: Even"},
+{"winner participants": "2nd place participants: MATTHEW O\u2019NEILL & MARK WILLIAMS\n2nd Place Business: Defensive Thinking"},
+{},
+{},
+{}
+][
+{},
+{"winner participants": "2nd place participants: MATTHEW O\u2019NEILL & MARK WILLIAMS", "winner business": "2nd place business: Defensive Thinking"},
+{"winner participants": "3rd place participants:  ALEX SHAKESHAFT & STUART ROBERTS", "winner business": "3rd place business: Enturi Solutions"},
+{},
+{"winner participants": "4th place participants:  SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH", "winner business": "4th place business: Even"},
+{},
+{}
+][
+{"winner participants": "winner participants:  KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR", "winner business": "winner business: Elbow Engineers"},
+{"winner participants": "4th place participants:  SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH", "winner business": "4th place business: Even"},
+{},
+{"winner participants": "2nd place participants: MATTHEW O\u2019NEILL & MARK WILLIAMS", "winner business": "2nd place business: Defensive Thinking"},
+{},
+{"winner participants": "3rd place participants:  ALEX SHAKESHAFT & STUART ROBERTS", "winner business": "3rd place business: Enturi Solutions"},
+{}
+][
+{"winner business": "winner business: Elbow Engineers", "winner participants": "winner participants:  KUMAR LOGANATHAN& JYOTSNA RAVIKUMAR"},
+{"winner business": "4th place business: Even", "winner participants": "4th place participants:  SARAH BAILEY, AURUSHA KHARAS& ANUSHKA MAHESH"},
+{"winner business": "2nd place business: Defensive Thinking", "winner participants": "2nd place participants: MATTHEW O\u2019NEILL & MARK WILLIAMS"},
+{},
+{},
+{"winner business": "3rd place business: Enturi Solutions", "winner participants": "3rd place participants:  ALEX SHAKESHAFT & STUART ROBERTS"},
+{}
+][
+
+][
+
+][
+
+]
