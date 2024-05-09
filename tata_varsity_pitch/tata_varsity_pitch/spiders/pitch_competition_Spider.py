@@ -29,13 +29,10 @@ class PitchCompetitionSpiderSpider(scrapy.Spider):
         items['winner business'] = business
         items['winner participants'] = participants
 
-        table.create(items)
+        yield items
 
 
 if __name__ == '__main__':
-    api = pyairtable.Api('patAutBB8czI3ifML.c1e5aa28bb6f09cbb0d81815494d371003902e6f43500abebe713f307a505f25')
-    base = api.base('appISH2KhnZt5ElD8')
-    table = [v for v in base.tables() if v.name == 'Main Table'][0]
     process = CrawlerProcess()
     process.crawl(PitchCompetitionSpiderSpider)
     process.start()
